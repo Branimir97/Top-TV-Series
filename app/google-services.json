@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253831698985",
+    "firebase_url": "https://toptvseries.firebaseio.com",
+    "project_id": "toptvseries",
+    "storage_bucket": "toptvseries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253831698985:android:c954028b85c503057d9a38",
+        "android_client_info": {
+          "package_name": "branimirbutkovic.ferit.toptvseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253831698985-0gigm0elgam60n5e1e430teu3c3i1cur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xAtL0k97Vq8YOV7Pb8N8tzmC-P-k1qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253831698985-0gigm0elgam60n5e1e430teu3c3i1cur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
